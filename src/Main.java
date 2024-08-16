@@ -48,7 +48,7 @@ public class Main {
         cobra.locomover("chao");
         cobra.emitirSom();
 
-        
+
         Reptil tartaruga = new Tartaruga();
         tartaruga.locomover(2);
         tartaruga.locomover("chao");

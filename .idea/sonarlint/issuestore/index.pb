@@ -27,3 +27,5 @@ O
 src/animais/mamiferos/Gato.java,7\b\7bb7506cf3ca98af8b72ec6805c928a35d34ad56
 H
 animais-polimorficos.iml,b\f\bf3a81d3dcbca9806e653054f0afb4541ef45f9d
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
